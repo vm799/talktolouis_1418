@@ -8,7 +8,7 @@ A safety-first voice agent that bridges clinical anxiety and access gaps in the 
 
 ## The Problem
 
-**15 million people live with diabetes in the UK.** Yet DESP achieves only a **70-82% national uptake** in hard-to-reach demographics—particularly among non-English speakers, digitally excluded populations, and those with "clinical anxiety" (fear of diagnosis).
+**millions of people live with diabetes in the UK.** Yet DESP achieves only a **70-82% national uptake** in hard-to-reach demographics—particularly among non-English speakers, digitally excluded populations, and those with "clinical anxiety" (fear of diagnosis).
 
 ### Cost of No-Shows
 - **Annual preventable blindness cases:** ~12,000 (UK)
